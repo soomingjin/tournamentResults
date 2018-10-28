@@ -21,3 +21,5 @@ Once the database is created (which you can check by using `\dt` in the `psql` s
 ## Lessons Learnt
 
 I tried to prevent SQL injection via the use of query parameters, which was interesting for me as I never thought much about SQL injections, although they are frequently heard of in the cyber security scene. Toying around with databases allows me to understand the importance of having well thought out normalized tables, as well as aiding in my overall problem solving skills. This was a fun project to undertake in general.
+
+Hi cressy
